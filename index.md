@@ -1,6 +1,7 @@
 ---
-title: Various Stuff
-layout: home
+layout: page
+title: Main
+navigation: 1
 ---
 
 # Test Heading
