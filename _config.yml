@@ -1,1 +1,14 @@
+title: Title
+description: Stuff
+url: "https://devPeri.github.io"
 remote_theme: alexander-heimbuch/millidoc
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
