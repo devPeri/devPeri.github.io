@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Navigation
-navigation: 9
+title: About
+navigation: 100
 ---
 
 # About
