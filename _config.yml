@@ -2,4 +2,4 @@ markdown: kramdown
 theme: minima
 
 minima:
-	skin: dark
+  skin: dark
