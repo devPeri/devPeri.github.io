@@ -1,11 +1,2 @@
 markdown: kramdown
-theme: minima
-
-minima:
-  skin: dark
-  social_links:
-    twitter: p3r1
-    github: devPeri
-
-header_pages:
-  - about.md
+remote_theme: alexander-heimbuch/millidoc
