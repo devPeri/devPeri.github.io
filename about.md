@@ -1,6 +1,7 @@
 ---
-layout: page 
-title: ABOUT
+layout: page
+title: Navigation
+navigation: 9
 ---
 
 # About
