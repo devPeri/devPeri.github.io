@@ -1,6 +1,6 @@
 ---
 layout: default
-title: devPeri
+title: <b>devPeri</b>
 navigation: 0
 ---
 
