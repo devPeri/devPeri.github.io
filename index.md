@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Main
-navigation: 1
+title: devPeri
+navigation: 0
 ---
 
 # Test Heading
