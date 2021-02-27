@@ -6,7 +6,8 @@ navigation: 2
 
 # C/C++
 
-- http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html
+- [C++ FAQ](http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html)
+- [Back To Basics CppCon 2020](https://www.youtube.com/playlist?list=PLHTh1InhhwT5o3GwbFYy3sR7HDNRA353e)
 
 # RCU
 
