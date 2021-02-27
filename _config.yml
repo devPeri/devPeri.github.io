@@ -1,7 +1,7 @@
 title: Title
 description: Stuff
 url: "https://devPeri.github.io"
-remote_theme: alexander-heimbuch/millidocs
+remote_theme: devPeri/millidocs
 
 markdown: kramdown
 kramdown:
