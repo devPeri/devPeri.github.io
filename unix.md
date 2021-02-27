@@ -14,6 +14,6 @@ UNIX
 
 ### Debian
 #### Purge left-over configuration files of uninstalled packages
-```shell
+```bash
 dpkg -l | grep ^rc | awk '{print($2)}' 
 ```
