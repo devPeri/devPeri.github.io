@@ -29,6 +29,28 @@ umount proc
 umount sys
 ```
 
+#### ext4
+Journal:
+```shell
+# ENABLE
+tune2fs -O ^has_journal DEVICE
+
+# DISABLE
+tune2fs -o discard DEVICE
+
+dumpe2fs DEVICE | grep journal
+```
+
+Enable writeback mode (this mode will typically provide the best ext4 performance):
+```shell
+tune2fs -o journal_data_writeback DEVIE
+```
+
+For higher performance add fstab opions: data=writeback,noatime,nodiratime i.e:
+```
+/dev/sdXY /DIR ext4 defaults,data=writeback,noatime,nodiratime 0 0
+```
+
 ### Debian
 Purge left-over configuration files of uninstalled packages:
 ```shell
