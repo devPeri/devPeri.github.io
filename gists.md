@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GISTS
+title: GISTs
 navigation: 5
 ---
 
