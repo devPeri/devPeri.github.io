@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cryptography
+title: Crypto
 navigation: 12
 ---
 
