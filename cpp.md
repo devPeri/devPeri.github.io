@@ -6,8 +6,10 @@ navigation: 10
 
 # C/C++
 ---
+- [ISO C++](https://isocpp.org/)
 - [C++ FAQ](http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html)
 - [Back To Basics CppCon 2020](https://www.youtube.com/playlist?list=PLHTh1InhhwT5o3GwbFYy3sR7HDNRA353e)
+- [CppCon 2020 Presentation Materials](https://github.com/CppCon/CppCon2020)
 
 ### RCU
 - [Userspace RCU](https://liburcu.org/)
@@ -16,3 +18,7 @@ navigation: 10
 - [Is Parallel Programming Hard, And, If So,What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook-e2-rc6.pdf)
 - [Scalable RWLocks](https://sites.google.com/site/scalable68/scalable-rwlock)
 - [sys_membarrier()](https://lwn.net/Articles/369567/)
+
+### Libraries
+- [libuv](http://libuv.org/)
+- [Cap'n Proto](https://capnproto.org/)
