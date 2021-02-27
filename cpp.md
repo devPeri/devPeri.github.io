@@ -9,7 +9,7 @@ navigation: 10
 - [C++ FAQ](http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html)
 - [Back To Basics CppCon 2020](https://www.youtube.com/playlist?list=PLHTh1InhhwT5o3GwbFYy3sR7HDNRA353e)
 
-## RCU
+### RCU
 - [Userspace RCU](https://liburcu.org/)
 - [What is RCU, Fundamentally?](https://lwn.net/Articles/262464/)
 - [Introduction to RCU Concepts](https://www.efficios.com/pub/linuxcon-europe-2013/mdesnoyers-userspace-rcu-tutorial-linuxcon-2013.pdf)
