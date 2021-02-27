@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C/C++
-navigation: 100
+navigation: 2
 ---
 
 # C/C++
