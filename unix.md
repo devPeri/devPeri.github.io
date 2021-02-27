@@ -54,5 +54,5 @@ For higher performance add fstab opions: data=writeback,noatime,nodiratime i.e:
 ### Debian
 Purge left-over configuration files of uninstalled packages:
 ```shell
-dpkg -l | grep ^rc | awk '{print($2)}' 
+dpkg -l | grep ^rc | awk '{print($2)}' | apt-get -y purge
 ```
