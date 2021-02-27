@@ -4,7 +4,6 @@ title: C/C++
 navigation: 2
 ---
 
----
 # C/C++
 ---
 - [C++ FAQ](http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html)
