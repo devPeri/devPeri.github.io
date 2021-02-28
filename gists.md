@@ -9,7 +9,7 @@ GISTS
 {:.no_toc}
 
 ---
-* TOC
+# Contents
 {:toc}
 ---
 
