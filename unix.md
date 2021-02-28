@@ -15,7 +15,7 @@ UNIX
 ### Linux
 #### chroot
 Pre:
-```shell
+```console
 cd CHROOTDIR
 mount --bind /dev dev
 mount --bind /proc proc
@@ -23,7 +23,7 @@ mount --bind /sys sys
 ```
 
 Post:
-```shell
+```console
 umount dev
 umount proc
 umount sys
@@ -31,7 +31,7 @@ umount sys
 
 #### ext4
 Journal:
-```shell
+```console
 # ENABLE
 tune2fs -O ^has_journal DEVICE
 
@@ -42,7 +42,7 @@ dumpe2fs DEVICE | grep journal
 ```
 
 Enable writeback mode (this mode will typically provide the best ext4 performance):
-```shell
+```console
 tune2fs -o journal_data_writeback DEVIE
 ```
 
@@ -53,6 +53,6 @@ For higher performance add fstab opions: data=writeback,noatime,nodiratime i.e:
 
 ### Debian
 Purge left-over configuration files of uninstalled packages:
-```shell
+```console
 dpkg -l | grep ^rc | awk '{print($2)}' | xargs apt-get -y purge
 ```
