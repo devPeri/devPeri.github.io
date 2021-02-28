@@ -4,9 +4,10 @@ url: "https://devPeri.github.io"
 remote_theme: devPeri/millidocs
 
 markdown: kramdown
-kramdown:
-  syntax_highlighter_opts:
-    disable : true
+highlighter: rouge
+#kramdown:
+#  syntax_highlighter_opts:
+#    disable : true
 
 exclude:
   - Gemfile
@@ -18,4 +19,4 @@ sass:
   style: compressed
   
 disable_search: true
-#disable-prism: true
+disable-prism: true
