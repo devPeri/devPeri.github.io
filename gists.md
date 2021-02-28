@@ -15,3 +15,7 @@ navigation: 5
 - [VirtualBox](https://gist.github.com/devPeri/3f365fdfeec09a9b6ac60946ab8b4d5a)
 - [OSX](https://gist.github.com/devPeri/66e9c370398ea462cdf80f7e090c4023)
 - [MSW](https://gist.github.com/devPeri/771d8ddebd2fc8656974fd0f9eb46ef6)
+
+# Inline test
+
+{% gist 2174969a72d6ff976be5a25990259393 %}
