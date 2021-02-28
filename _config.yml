@@ -18,4 +18,4 @@ sass:
   style: compressed
   
 disable_search: true
-disable-prism: true
+#disable-prism: true
