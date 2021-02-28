@@ -30,5 +30,5 @@ sass:
   style: compressed
   
 disable_search: true
-disable-milligram: true
+#disable-milligram: true
 disable-prism: true
