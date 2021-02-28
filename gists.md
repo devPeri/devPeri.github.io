@@ -7,6 +7,8 @@ navigation: 5
 # GISTS
 ---
 
+{:toc}
+
 ### devPeri
 - [Linux](https://gist.github.com/devPeri/2174969a72d6ff976be5a25990259393)
 - [ZFS](https://gist.github.com/devPeri/875e0d046113f53d81abd59e71e8c39a)
