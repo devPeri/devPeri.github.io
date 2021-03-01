@@ -4,7 +4,8 @@ title: GISTs
 navigation: 5
 ---
 
-<title>GISTS</title>
+# <i>GISTS</i>
+{:.no_toc}
 
 ---
 - 
