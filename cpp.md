@@ -4,14 +4,15 @@ title: C/C++
 navigation: 10
 ---
 
-# C/C++
+# <i>C/C++</i>
 ---
+
 - [ISO C++](https://isocpp.org/)
 - [C++ FAQ](http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html)
 - [Back To Basics CppCon 2020](https://www.youtube.com/playlist?list=PLHTh1InhhwT5o3GwbFYy3sR7HDNRA353e)
 - [CppCon 2020 Presentation Materials](https://github.com/CppCon/CppCon2020)
 
-### RCU
+# RCU
 - [Userspace RCU](https://liburcu.org/)
 - [What is RCU, Fundamentally?](https://lwn.net/Articles/262464/)
 - [Introduction to RCU Concepts](https://www.efficios.com/pub/linuxcon-europe-2013/mdesnoyers-userspace-rcu-tutorial-linuxcon-2013.pdf)
@@ -19,6 +20,6 @@ navigation: 10
 - [Scalable RWLocks](https://sites.google.com/site/scalable68/scalable-rwlock)
 - [sys_membarrier()](https://lwn.net/Articles/369567/)
 
-### Libraries
+# Libraries
 - [libuv](http://libuv.org/)
 - [Cap'n Proto](https://capnproto.org/)
