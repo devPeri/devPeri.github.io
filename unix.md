@@ -4,16 +4,21 @@ title: UNIX
 navigation: 11
 ---
 
-UNIX
-====
+# <i>UNIX</i>
+{:.no_toc}
 
-### VIM
+---
+- 
+{:toc}
+---
+
+# VIM
 - [Is Vim Really Not For You? A Beginner Guide](https://thevaluable.dev/vim-beginner/)
 - [A Vim Guide for Intermediate Users](https://thevaluable.dev/vim-intermediate/)
 - [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
 
-### Linux
-#### chroot
+# Linux
+## chroot
 Pre:
 ```console
 cd CHROOTDIR
@@ -29,7 +34,7 @@ umount proc
 umount sys
 ```
 
-#### ext4
+## ext4
 Journal:
 ```console
 # ENABLE
@@ -51,7 +56,7 @@ For higher performance add fstab opions: data=writeback,noatime,nodiratime i.e:
 /dev/sdXY /DIR ext4 defaults,data=writeback,noatime,nodiratime 0 0
 ```
 
-### Debian
+# Debian
 Purge left-over configuration files of uninstalled packages:
 ```console
 dpkg -l | grep ^rc | awk '{print($2)}' | xargs apt-get -y purge
