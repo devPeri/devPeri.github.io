@@ -6,9 +6,12 @@ remote_theme: devPeri/millidocs
 highlighter: rouge
 
 markdown: kramdown
+
+## needed when internal Prism is enabled
 #kramdown:
 #  syntax_highlighter_opts:
 #    disable : true
+
 kramdown:
   input:          GFM
   syntax_highlighter: rouge
