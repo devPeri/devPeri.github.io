@@ -4,7 +4,8 @@ title: C/C++
 navigation: 10
 ---
 
-# <i>C/C++</i>
+{:.title}
+# C/C++
 ---
 
 - [ISO C++](https://isocpp.org/)
