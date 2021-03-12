@@ -4,8 +4,10 @@ title: Crypto
 navigation: 12
 ---
 
-# <i>Cryptography</i>
+{:.title}
+# Cryptography
 ---
+
 
 - [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
 
