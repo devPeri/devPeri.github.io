@@ -5,8 +5,11 @@ navigation: 0
 ---
 
 {:.title}
-# Peri's Dev Site
+# Peri's Dev Notes
 ---
 
+A collection of various notes and information related to Unix, computer programming, security, and cryptography.
+
+### Social
 - [Github](https://www.github.com/devPeri)
 - [Twitter](https://www.twitter.com/p3r1)
