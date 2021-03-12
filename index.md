@@ -8,7 +8,7 @@ navigation: 0
 # Peri's Dev Notes
 ---
 
-A collection of various notes and information related to Unix, computer programming, security, and cryptography.
+A collection of various personal notes, project, and external resources related to Unix, computer programming, security, and cryptography.
 
 ### Social
 - [Github](https://www.github.com/devPeri)
