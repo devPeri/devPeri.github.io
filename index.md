@@ -8,7 +8,7 @@ navigation: 0
 # devPeri's Notes
 ---
 
-A collection of personal notes, projects, and external resources related to Unix, computer programming, security, and cryptography.
+A collection of personal notes and external resources related to Unix, computer programming, security, and cryptography.
 
 ### Social
 - [Github](https://www.github.com/devPeri)
