@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b><i><big>devPeri Notes</big></i></b><hr class=title>
+title: <b><i><big>devPeri's Notes</big></i></b><hr class=title>
 navigation: 0
 ---
 
