@@ -5,7 +5,7 @@ navigation: 0
 ---
 
 {:.title}
-# Peri's Dev Notes
+# devPeri's Notes
 ---
 
 A collection of personal notes, projects, and external resources related to Unix, computer programming, security, and cryptography.
