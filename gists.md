@@ -27,6 +27,9 @@ navigation: 5
 # VirtualBox
 {% gist 3f365fdfeec09a9b6ac60946ab8b4d5a %}
 
+# BeagleBone Black
+{% gist eb1581a5355188921717a7a14d810de6 %}
+
 # OSX
 {% gist 66e9c370398ea462cdf80f7e090c4023 %}
 
