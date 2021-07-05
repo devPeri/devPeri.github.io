@@ -1,11 +1,11 @@
 ---
 layout: default
-title: <b><i><big>devPeri's Notes</big></i></b><hr class=title>
+title: <b><i><big>Peri's Notes</big></i></b><hr class=title>
 navigation: 0
 ---
 
 {:.title}
-# devPeri's Notes
+# Peri's Notes
 ---
 
 A collection of personal notes and external resources related to Unix, computer programming, security, and cryptography.
