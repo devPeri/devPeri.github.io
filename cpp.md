@@ -6,12 +6,17 @@ navigation: 10
 
 {:.title}
 # C/C++
+{:.no_toc}
+---
+- 
+{:toc}
 ---
 
 - [ISO C++](https://isocpp.org/)
 - [C++ FAQ](http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html)
 - [Back To Basics CppCon 2020](https://www.youtube.com/playlist?list=PLHTh1InhhwT5o3GwbFYy3sR7HDNRA353e)
 - [CppCon 2020 Presentation Materials](https://github.com/CppCon/CppCon2020)
+- [C++20 Concepts: The Definitive Guide](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide/)
 
 # RCU
 - [Userspace RCU](https://liburcu.org/)
