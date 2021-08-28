@@ -20,4 +20,5 @@ navigation: 12
 - [OpenKMIP](https://github.com/OpenKMIP)
 
 # Hashing
-- [BLAKE2](https://www.blake2.net/)
+- [~~BLAKE2~~](https://www.blake2.net/)
+- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
