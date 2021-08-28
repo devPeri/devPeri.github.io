@@ -6,10 +6,6 @@ navigation: 10
 
 {:.title}
 # C/C++
-{:.no_toc}
----
-- 
-{:toc}
 ---
 
 - [ISO C++](https://isocpp.org/)
