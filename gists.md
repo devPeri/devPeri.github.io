@@ -38,3 +38,6 @@ navigation: 5
 
 # BeagleBone Black
 {% gist eb1581a5355188921717a7a14d810de6 %}
+
+# Qt Programming
+{% gist a27ddf9399f3b9690adda7b8173945e7 %}
