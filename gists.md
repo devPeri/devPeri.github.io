@@ -41,3 +41,6 @@ navigation: 5
 
 # Qt Programming
 {% gist a27ddf9399f3b9690adda7b8173945e7 %}
+
+# Visual Studio Code
+{% gist 5d3c13605f15f3520cbe3390f1099ed5 %}
