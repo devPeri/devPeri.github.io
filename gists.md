@@ -18,6 +18,9 @@ navigation: 5
 # FreeBSD
 {% gist 82fd5b45a0c8580a83d0d849530ccb35 %}
 
+# OpenBSD
+{% gist c2c3da97905f7c72421a63f7bf08beb3 %}
+
 # OSX
 {% gist 66e9c370398ea462cdf80f7e090c4023 %}
 
@@ -38,6 +41,9 @@ navigation: 5
 
 # BeagleBone Black
 {% gist eb1581a5355188921717a7a14d810de6 %}
+
+# DEll XPS 9320 Plus
+(% gist c33fcd2945e6657f3943d0d7ccee056f %}
 
 # Qt Programming
 {% gist a27ddf9399f3b9690adda7b8173945e7 %}
