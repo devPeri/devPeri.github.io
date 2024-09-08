@@ -8,7 +8,7 @@ navigation: 0
 # Peri's Notes
 ---
 
-A collection of personal notes and external resources related to Unix, computer programming, security, and cryptography.
+A collection of personal notes and usefule links for my personal quick reference.
 
 ### Social
 - [Github](https://www.github.com/devPeri)
